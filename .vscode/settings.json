@@ -1,0 +1,4 @@
+{
+    "scss-to-css-compile.outDir": "../compiled-scss",
+    "liveServer.settings.port": 5501
+}
